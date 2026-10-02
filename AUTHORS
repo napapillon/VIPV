@@ -1,0 +1,63 @@
+AUTHORS
+=======
+
+This file lists the authors of the VIPV data-processing and analysis code
+referenced in the header of every script in this repository.
+
+
+Author
+------
+
+Nathan Papillon
+papillon.nathan@gmail.com
+
+Polytech Clermont / Clermont Auvergne INP -- Physical Engineering, Energy
+Research internship, April--August 2026
+
+Instituto Dom Luiz, Faculdade de Ciencias, Universidade de Lisboa (FCUL)
+Lisbon, Portugal
+
+Sole author of the code in this repository.
+
+
+Supervision
+-----------
+
+The work was carried out under the supervision of Miguel Centeno Brito
+(Instituto Dom Luiz, FCUL), within the research group's ongoing work on
+vehicle-integrated photovoltaics.
+
+
+Use of AI assistants
+--------------------
+
+Large language models were used during development, for drafting and
+refactoring code, writing docstrings and documentation, and reviewing
+analysis choices. The models used were:
+
+    Claude Sonnet 4.6   (Anthropic)
+    Claude Sonnet 5     (Anthropic)
+    Claude Opus 5       (Anthropic)
+    GPT-5.6             (OpenAI)
+
+All code was read, executed and validated by the author, who is
+responsible for its correctness and for the results it produces. No output
+was incorporated without review.
+
+
+Licence
+-------
+
+TODO: state the licence under which this code is released.
+
+
+Citation
+--------
+
+If you use this code or build on it, please cite the internship report:
+
+    Papillon, N. (2026). Urban shading and the solar potential of
+    vehicle-integrated photovoltaics: on-board irradiance measurements in
+    Lisbon. Engineering internship report,
+    Polytech Clermont / Clermont Auvergne INP, carried out at Instituto
+    Dom Luiz, Faculdade de Ciencias, Universidade de Lisboa.

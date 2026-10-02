@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+abstract: "Data-processing and analysis code for the VIPV urban-shading study (internship report, 2026)."
+title: "Urban shading and the solar potential of vehicle-integrated photovoltaics: on-board irradiance measurements in Lisbon (code)"
+type: software
+authors:
+  - family-names: Papillon
+    given-names: Nathan
+    affiliation: "Instituto Dom Luiz, Faculdade de Ciências, Universidade de Lisboa"
+date-released: 2026-10-02
+# TODO: add repository-code URL and licence once the repository is published.

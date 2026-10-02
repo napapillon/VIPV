@@ -1,0 +1,28 @@
+# --- Datasets (see data/README.md) ---------------------------------------
+data/*
+!data/README.md
+
+# --- Generated files -------------------------------------------------------
+outputs/
+cache/
+
+# --- Local working files (not part of the repository) ----------------------
+Suivi_depot_code.xlsx
+Report/
+~$*
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# --- Editors / OS ----------------------------------------------------------
+.vs/
+.vscode/
+*.pyproj
+*.sln
+Thumbs.db
+desktop.ini
+.DS_Store

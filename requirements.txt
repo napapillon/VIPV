@@ -1,0 +1,18 @@
+# Python >= 3.10
+# Versions to be pinned from the author's environment (pip freeze).
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
+openpyxl
+geopandas
+shapely
+pyproj
+rasterio
+contextily
+osmnx
+networkx
+folium
+pvlib
+cdsapi
