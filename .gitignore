@@ -7,8 +7,7 @@ outputs/
 cache/
 
 # --- Local working files (not part of the repository) ----------------------
-Suivi_depot_code.xlsx
-Report/
+/Suivi_depot_code.xlsx
 ~$*
 
 # --- Python ----------------------------------------------------------------
