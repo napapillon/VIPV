@@ -7,5 +7,6 @@ authors:
   - family-names: Papillon
     given-names: Nathan
     affiliation: "Instituto Dom Luiz, Faculdade de Ciências, Universidade de Lisboa"
-date-released: 2026-10-02
-# TODO: add repository-code URL and licence once the repository is published.
+date-released: 2026-10-23
+license: MIT
+repository-code: "https://github.com/napapillon/VIPV"
